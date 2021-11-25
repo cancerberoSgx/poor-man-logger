@@ -6,8 +6,11 @@ This is a small server that listen for logging messages by POST requests.
 
 ## Usage
 
-npm i -g logger-server
-
+```
+npm i -g poor-man-logger
+poor-man-logger --port 8888
+poor-man-logger --help
+```
 
 ## Client examples
 
