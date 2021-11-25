@@ -7,8 +7,10 @@ This is a small server that listen for logging messages by POST requests.
 ## Usage
 
 ```
-npm i -g poor-man-logger
-poor-man-logger --port 8888
+npm i -g https://github.com/cancerberoSgx/poor-man-logger
+poor-man-logger
+# more options
+poor-man-logger --port 8080 --output log.txt
 poor-man-logger --help
 ```
 
