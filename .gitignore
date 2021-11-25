@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+docs/
+.env
+dist/
+config/local.json
+.DS_Store
+/tmp*

@@ -1,0 +1,19 @@
+{
+  "name": "poor-man-logger",
+  "version": "1.0.0",
+  "description": "This is a small server that listen for logging messages by POST requests. Useful for situations where it's very hard or impossible to console.log",
+  "main": "index.js",
+  "bin": {
+    "poor-man-logger": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sebastián Gurin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "minimist": "^1.2.5"
+  }
+}
