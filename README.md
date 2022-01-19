@@ -14,6 +14,8 @@ poor-man-logger --port 8080 --output log.txt
 poor-man-logger --help
 ```
 
+TIP: you can use https://www.npmjs.com/package/localtunnel to access different networks. 
+
 ## Client examples
 
 React native 
